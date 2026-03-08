@@ -1,5 +1,9 @@
 # Solution Analysis
 
+NOTE: I implemented the notebook in kaggle, exported it, and added dependencies with `uv` for local development.
+
+Find the notebook on Kaggle here: https://www.kaggle.com/code/ob0china/assignment2 (exported for TAs)
+
 ### Probe Design and Complexity Optimization
 
 Following best practices from the literature, I implemented several architectural constraints to ensure the probe detects genuine representational features rather than learning the task through excessive capacity:
