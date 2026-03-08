@@ -1,3 +1,5 @@
+# Solution Analysis
+
 ### Probe Design and Complexity Optimization
 
 Following best practices from the literature, I implemented several architectural constraints to ensure the probe detects genuine representational features rather than learning the task through excessive capacity:
